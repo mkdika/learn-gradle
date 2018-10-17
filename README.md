@@ -15,6 +15,7 @@ These are some libraries and its version which I use during this learning.
 
 - [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html)
 - [Gradle Plugin Portal](https://plugins.gradle.org/)
+- [Getting Started with Gradle](https://www.petrikainulainen.net/getting-started-with-gradle/)
 
 ## License
 Licensed under the MIT License. See [LICENSE](/LICENSE) file.
